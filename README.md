@@ -3,4 +3,4 @@ This repo contains a small test dataset for Celldega. The data was obtained from
 Data: https://www.10xgenomics.com/datasets/
 
 
-<a href="https://colab.research.google.com/github/cornhundred/test_1/blob/main/celldega_0_3_0_binder.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/broadinstitute/celldega_Xenium_Prime_Human_Skin_FFPE_outs/HEAD)
